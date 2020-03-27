@@ -7,8 +7,7 @@
         512
       ],
       "tensorPath": "https://raw.githubusercontent.com/yannistannier/template_projector/master/test_vis.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/yannistannier/template_projector/master/meta.tsv",
-      
+      "metadataPath": "https://raw.githubusercontent.com/yannistannier/template_projector/master/meta.tsv"
     }
   ]
 }
