@@ -11,8 +11,8 @@
       "sprite": {
         "imagePath": "  https://github.com/yannistannier/template_projector/blob/master/sprite_image.jpg",
         "singleImageDim": [
-          32,
-          32
+          8,
+          8
         ]
       }
     }
