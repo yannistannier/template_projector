@@ -3,11 +3,17 @@
     {
       "tensorName": "My tensor",
       "tensorShape": [
-        385,
-        512
+        3354,
+        50
       ],
       "tensorPath": "https://raw.githubusercontent.com/yannistannier/template_projector/master/test_vis.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/yannistannier/template_projector/master/meta.tsv"
+      "sprite": {
+        "imagePath": "https://github.com/yannistannier/template_projector/raw/master/sprite_image.jpg",
+        "singleImageDim": [
+          8,
+          8
+        ]
+      }
     }
   ]
 }
